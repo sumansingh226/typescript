@@ -12,7 +12,7 @@ enum enumExample {
 }
 
 function myFun(): void {
-    // Function body
+    console.log("Hello world!")
 }
 
 const arrayExample: number[] = [1, 2, 3, 4, 5];
