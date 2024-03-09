@@ -20,3 +20,8 @@ const objectExample: { name: string, age: number } = { name: "Alice", age: 30 };
 
 console.log("arrayExample", arrayExample);
 console.log("objectExample", objectExample);
+type Project = {
+    name: String
+    tagline: String
+    contributors: Number
+}
